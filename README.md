@@ -4,6 +4,7 @@ My Name is Kyung Bin Choi, but I go by Ken Choi. Lake Forest, CA 🌲
  I am an aspiring software developer with a passion of creating fun projects. I learned React.js, CSS, HTML, Node.js, Express.js, PostgreSQL, JavaScript, C#, .Net, and Microsoft SQL, allowing me to create dynamic, user-friendly, and visually appealing web applications. When I am not coding, I am either building and customizing gundam plastic models or gunpla for short. I am also a sneakerhead and love to collect sneakers for me to wear.
  ## Let's Connect ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  https://www.linkedin.com/in/kyungbinchoi/\
+ 
  📧 kyungbinchoii@gmail.com
 # Future projects I want to accomplish:
 - 👟 Develop a bot software to buy me sneakers that I desperately want on drop.
